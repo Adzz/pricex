@@ -1,0 +1,2 @@
+defmodule PriceScraper do
+end
